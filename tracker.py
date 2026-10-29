@@ -39,7 +39,7 @@ while True:
         print()
             
     elif choice == "2":
-        print("Coming soon...")
+        print("Coming soon: the tracker can't remember each item yet.")
         print()
         
     elif choice == "3":
